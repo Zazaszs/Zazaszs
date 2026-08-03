@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="izas2souza23@gmail.com">
+<a href="mailto:izas2souza23@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -66,40 +66,17 @@ Atualmente estudo Desenvolvimento de Sistemas e desenvolvo projetos próprios at
 
 ---
 
-# 💻 Tecnologias
+## 💻 Tecnologias
 
-## Front-end
+<div align="center">
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react"/>
+<br><br>
 
-</p>
+<img src="https://skillicons.dev/icons?i=python,nodejs,mysql,supabase,git,github,vscode"/>
 
-## Back-end
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,nodejs,express"/>
-
-</p>
-
-## Banco de Dados
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,supabase"/>
-
-</p>
-
-## Ferramentas
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-
-</p>
-
+</div>
 ---
    
 <div align="center">
@@ -149,16 +126,6 @@ Quero criar soluções digitais que unam:
 - 🚀 Inovação
 - ❤️ Experiência do usuário
 
----
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zazaszs&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zazaszs&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 
 ---
