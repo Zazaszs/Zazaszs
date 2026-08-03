@@ -76,7 +76,6 @@ Atualmente estudo Desenvolvimento de Sistemas e desenvolvo projetos próprios at
 <br><br>
 <img src="https://skillicons.dev/icons?i=python,nodejs,mysql,supabase,git,github,vscode"/>
 </div>
----
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Zazaszs&theme=tokyonight&hide_border=true"/>
 
