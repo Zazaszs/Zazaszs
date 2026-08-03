@@ -10,15 +10,15 @@
 
 <br>
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/Zazaszs">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/SEU_LINK">
+<a href="https://www.linkedin.com/in/izabelly-esteves/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="izas2souza23@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -35,7 +35,8 @@ Nome: Izabelly Esteves
 Curso: Desenvolvimento de Sistemas
 Empresa: Lunx Studio
 País: Brasil 🇧🇷
-Especialidade: Desenvolvimento Web
+Especialidade: Desenvolvimento de Sistemas
+Curso na instituição: Senai Francisco Matarazzo
 Objetivo:
   Criar experiências digitais modernas,
   rápidas e bonitas.
@@ -104,9 +105,9 @@ Atualmente estudo Desenvolvimento de Sistemas e desenvolvo projetos próprios at
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zazaszs&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zazaszs&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -114,7 +115,7 @@ Atualmente estudo Desenvolvimento de Sistemas e desenvolvo projetos próprios at
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Zazaszs&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -175,15 +176,15 @@ Quero criar soluções digitais que unam:
 
 <div align="center">
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:izas2souza23@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/SEU_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://www.linkedin.com/in/izabelly-esteves/"/>
 </a>
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/Zazaszs">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
