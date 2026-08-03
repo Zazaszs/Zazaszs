@@ -150,9 +150,7 @@ Quero criar soluções digitais que unam:
 - ❤️ Experiência do usuário
 
 ---
-
-# 📈 Contribuições
-
+## 📊 Estatísticas
 
 <div align="center">
 
