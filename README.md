@@ -153,11 +153,12 @@ Quero criar soluções digitais que unam:
 
 # 📈 Contribuições
 
+
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zazaszs&theme=tokyonight"/>
-
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zazaszs&theme=tokyonight">
 </div>
+
+
 
 ---
 
