@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=8A2BE2"/>
+<img src="https://komarev.com/ghpvc/?username=Zazaszs&style=for-the-badge&color=8A2BE2"/>
 
 </div>
 
