@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=220&section=header&text=Lunx%20Studio&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+</div>
 
 # 💜 Izabelly Dev
 
