@@ -155,9 +155,12 @@ Quero criar soluções digitais que unam:
 
 
 <div align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zazaszs&theme=tokyonight">
-</div>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zazaszs&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zazaszs&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 
 ---
