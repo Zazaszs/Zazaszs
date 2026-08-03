@@ -4,7 +4,7 @@
 
 </div>
 
-# 💜 Izabelly Dev
+#                                                💜 Izabelly Dev
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Izabelly+%F0%9F%91%8B;Desenvolvedora+Web+em+formação;Criando+experiências+digitais;Fundadora+da+Lunx+Studio+🌙"/>
 
