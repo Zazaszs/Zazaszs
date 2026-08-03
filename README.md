@@ -57,6 +57,7 @@ Atualmente estudo Desenvolvimento de Sistemas e desenvolvo projetos próprios at
 | Alta Performance | Produtos |
 | Design Moderno | Pedidos |
 
+
 | 📱 Landing Pages | ⚙ Sistemas Web |
 |-----------------|---------------|
 | Conversão | Banco de Dados |
@@ -100,19 +101,7 @@ Atualmente estudo Desenvolvimento de Sistemas e desenvolvo projetos próprios at
 </p>
 
 ---
-
-# 📊 GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zazaszs&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zazaszs&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
+   
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Zazaszs&theme=tokyonight&hide_border=true"/>
