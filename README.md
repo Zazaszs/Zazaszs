@@ -58,6 +58,8 @@ Atualmente estudo Desenvolvimento de Sistemas e desenvolvo projetos próprios at
 | Design Moderno | Pedidos |
 
 
+
+
 | 📱 Landing Pages | ⚙ Sistemas Web |
 |-----------------|---------------|
 | Conversão | Banco de Dados |
@@ -71,19 +73,14 @@ Atualmente estudo Desenvolvimento de Sistemas e desenvolvo projetos próprios at
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
-
 <br><br>
-
 <img src="https://skillicons.dev/icons?i=python,nodejs,mysql,supabase,git,github,vscode"/>
-
 </div>
 ---
-   
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=Zazaszs&theme=tokyonight&hide_border=true"/>
 
-</div>
+<div>
 
 ---
 
