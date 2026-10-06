@@ -22,6 +22,8 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=Zazaszs&style=for-the-badge&color=8A2BE2"/>
 
 </div>
@@ -33,125 +35,11 @@
 ```yaml
 Nome: Izabelly Esteves
 Curso: Desenvolvimento de Sistemas
+Instituição: SENAI Francisco Matarazzo
 Empresa: Lunx Studio
 País: Brasil 🇧🇷
+Área: Desenvolvimento Web
 Especialidade: Desenvolvimento de Sistemas
-Curso na instituição: Senai Francisco Matarazzo
 Objetivo:
   Criar experiências digitais modernas,
-  rápidas e bonitas.
-```
-
-Sou apaixonada por tecnologia, programação e design.
-
-Atualmente estudo Desenvolvimento de Sistemas e desenvolvo projetos próprios através da **Lunx Studio**, buscando transformar ideias em experiências digitais.
-
----
-
-# 🚀 Serviços
-
-| 🌐 Sites | 🛒 Lojas Virtuais |
-|----------|------------------|
-| Responsivos | Carrinho |
-| SEO | Login |
-| Alta Performance | Produtos |
-| Design Moderno | Pedidos |
-
-
-
-
-| 📱 Landing Pages | ⚙ Sistemas Web |
-|-----------------|---------------|
-| Conversão | Banco de Dados |
-| Divulgação | Dashboard |
-| Marketing | Painel Administrativo |
-
----
-
-## 💻 Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
-<br><br>
-<img src="https://skillicons.dev/icons?i=python,nodejs,mysql,supabase,git,github,vscode"/>
-</div>
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Zazaszs&theme=tokyonight&hide_border=true"/>
-
-<div>
-
----
-
-# 🌙 Projetos
-
-## 💜 Lunx Studio
-
-Empresa de desenvolvimento web focada em experiências digitais.
-
-### Recursos
-
-- ✨ Design moderno
-- 📱 Responsivo
-- ⚡ Alta performance
-- 🔒 Segurança
-- 🎨 UI/UX
-
----
-
-## 💄 Lunx Makeup
-
-Projeto de loja virtual.
-
-### Recursos
-
-- 🛍 Catálogo
-- 🛒 Carrinho
-- 👤 Login
-- 📦 Pedidos
-- ⭐ Avaliações
-
----
-
-# 🎯 Objetivo
-
-Quero criar soluções digitais que unam:
-
-- 🎨 Design
-- 💻 Tecnologia
-- 🚀 Inovação
-- ❤️ Experiência do usuário
-
-
-
----
-
-# 🌎 Onde me encontrar
-
-<div align="center">
-
-<a href="mailto:izas2souza23@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/izabelly-esteves/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Zazaszs">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌙 Lunx Studio
-
-### Transformando ideias em experiências digitais.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=130&section=footer"/>
-
-</div>
+  rápidas, bonitas e funcionais.
