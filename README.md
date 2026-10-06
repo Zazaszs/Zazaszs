@@ -6,7 +6,11 @@
 
 ### Desenvolvedora Web • Fundadora da Lunx Studio
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+Izabelly+👋;Desenvolvedora+Web+em+formação;Criando+experiências+digitais;Apaixonada+por+Tecnologia;Fundadora+da+Lunx+Studio+🌙"/>
+<p>
+  <strong>Desenvolvimento Web</strong> •
+  <strong>Desenvolvimento de Sistemas</strong> •
+  <strong>UI/UX</strong>
+</p>
 
 <br>
 
@@ -26,6 +30,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=Zazaszs&style=for-the-badge&color=8A2BE2"/>
 
+<br><br>
+
+### 💜 Apaixonada por Tecnologia
+
 </div>
 
 ---
@@ -40,6 +48,228 @@ Empresa: Lunx Studio
 País: Brasil 🇧🇷
 Área: Desenvolvimento Web
 Especialidade: Desenvolvimento de Sistemas
+
 Objetivo:
   Criar experiências digitais modernas,
   rápidas, bonitas e funcionais.
+```
+
+Sou apaixonada por **tecnologia, programação e design**.
+
+Atualmente estudo **Desenvolvimento de Sistemas** no **SENAI Francisco Matarazzo** e desenvolvo projetos próprios através da **Lunx Studio**, buscando transformar ideias em experiências digitais modernas, funcionais e intuitivas.
+
+Meu foco é unir **tecnologia + criatividade + experiência do usuário** para criar soluções digitais que realmente façam sentido.
+
+---
+
+# 🚀 Serviços
+
+<div align="center">
+
+| 🌐 Sites | 🛒 Lojas Virtuais |
+|:---:|:---:|
+| Responsivos | Catálogo de produtos |
+| SEO | Carrinho de compras |
+| Alta performance | Login e cadastro |
+| Design moderno | Sistema de pedidos |
+
+<br>
+
+| 📱 Landing Pages | ⚙️ Sistemas Web |
+|:---:|:---:|
+| Alta conversão | Banco de dados |
+| Divulgação | Dashboard |
+| Marketing | Painel administrativo |
+| Design estratégico | Sistemas personalizados |
+
+</div>
+
+---
+
+# 💻 Tecnologias
+
+<div align="center">
+
+### 🎨 Front-end
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
+
+<br><br>
+
+### ⚙️ Back-end & Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,mysql,supabase"/>
+
+<br><br>
+
+### 🛠️ Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</div>
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Zazaszs&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zazaszs&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Zazaszs&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎓 Certificações
+
+<div align="center">
+
+## 🏆 Certificado Oracle
+
+### 💜 Certificação em Tecnologia
+
+<br>
+
+<img src="./certificado-oracle.png" width="750"/>
+
+<br><br>
+
+**Oracle**
+
+<br>
+
+*Mais uma etapa na minha jornada de aprendizado em tecnologia. 🚀*
+
+</div>
+
+---
+
+# 🌙 Projetos
+
+## 💜 Lunx Studio
+
+A **Lunx Studio** é uma empresa de desenvolvimento web focada em criar experiências digitais modernas, rápidas e intuitivas.
+
+### ✨ Recursos
+
+- 🎨 Design moderno
+- 📱 Layout responsivo
+- ⚡ Alta performance
+- 🔒 Segurança
+- 🧩 UI/UX
+- 🚀 Experiência do usuário
+- 💻 Desenvolvimento personalizado
+
+---
+
+## 💄 Lunx Makeup
+
+Projeto de **loja virtual** desenvolvido para proporcionar uma experiência completa de compra online.
+
+### 🛍️ Recursos
+
+- 🛍️ Catálogo de produtos
+- 🛒 Carrinho de compras
+- 👤 Sistema de login
+- 📦 Sistema de pedidos
+- ⭐ Avaliações
+- 💳 Estrutura para pagamentos
+- 📱 Interface responsiva
+
+---
+
+# 🎯 Meu objetivo
+
+Quero criar soluções digitais que unam:
+
+<div align="center">
+
+### 🎨 Design
+### 💻 Tecnologia
+### 🚀 Inovação
+### ❤️ Experiência do usuário
+
+</div>
+
+Meu objetivo é transformar ideias em **produtos digitais bonitos, funcionais, rápidos e eficientes**.
+
+Estou sempre buscando aprender novas tecnologias, melhorar minhas habilidades e transformar conhecimento em projetos reais.
+
+---
+
+# 🌱 Atualmente estudando
+
+<div align="center">
+
+💻 Desenvolvimento de Sistemas  
+🌐 Desenvolvimento Web  
+🎨 UI/UX Design  
+🗄️ Banco de Dados  
+⚡ JavaScript  
+🐍 Python  
+⚛️ React  
+🔧 Git & GitHub
+
+</div>
+
+---
+
+# 💡 O que estou construindo
+
+```text
+🌙 Lunx Studio
+        │
+        ├── 🌐 Desenvolvimento Web
+        ├── 🎨 UI/UX Design
+        ├── 🛒 E-commerce
+        ├── ⚙️ Sistemas Web
+        └── 🚀 Experiências Digitais
+```
+
+A ideia da **Lunx Studio** é transformar conceitos e ideias em experiências digitais modernas.
+
+---
+
+# 🌎 Onde me encontrar
+
+<div align="center">
+
+<a href="mailto:izas2souza23@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/izabelly-esteves/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Zazaszs">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌙 Lunx Studio
+
+### Transformando ideias em experiências digitais.
+
+<br>
+
+💜 **Tecnologia • Design • Inovação**
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=130&section=footer"/>
+
+</div>
