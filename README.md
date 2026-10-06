@@ -166,6 +166,8 @@ Sistemas personalizados
 
 <div align="center">
 
+<div align="center">
+
 ## 🏆 Certificado Oracle
 
 ### 💜 Certificação em Tecnologia
@@ -183,7 +185,6 @@ Sistemas personalizados
 *Mais uma etapa na minha jornada de aprendizado em tecnologia. 🚀*
 
 </div>
-
 ---
 
 # 🌙 Projetos
